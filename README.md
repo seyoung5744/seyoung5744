@@ -1,16 +1,10 @@
-- 👋 Hi, I’m @seyoung5744
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 seyoung5744/seyoung5744 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 
-![seyoung5744's github stats](https://github-readme-stats.vercel.app/api?username=Choyoonyoung98&show_icons=true&theme=merko)
+![seyoung5744's github stats](https://github-readme-stats.vercel.app/api?username=seyoung5744&show_icons=true&theme=merko)
 
 <!--
 **seyoung5744/seyoung5744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,7 @@ seyoung5744/seyoung5744 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-"To keep it simple, my goal is to write at least one line of code every day."
+## ***"To keep it simple, my goal is to write at least one line of code every day."***
 
 ![seyoung5744's github stats](https://github-readme-stats.vercel.app/api?username=seyoung5744&show_icons=true&theme=merko)
 
